@@ -1,0 +1,7 @@
+15:30:test:2
+08:40:/bin/ls -l /home:2
+08:39:/bin/ls -a /:2
+08:30:/bin/ls aaa:2
+18:10:/bin/ls -a /:2
+08:50:/bin/ls -l /home/marcin:2
+17:48:/bin/ls -l /home:2

@@ -1,0 +1,34 @@
+8:39:/bin/ls -a /:2 STDOUT: .
+..
+bin
+boot
+cdrom
+dev
+etc
+home
+initrd.img
+lib
+lib64
+lost+found
+media
+mnt
+opt
+proc
+root
+run
+sbin
+srv
+sys
+tmp
+usr
+var
+vmlinuz
+8:39:/bin/ls -a /:2 STDERR: 
+8:40:/bin/ls -l /home:2 STDOUT: total 36
+drwx------  2 root   root   16384 paź 22  2013 lost+found
+drwxr-xr-x 92 marcin marcin  4096 lis 28 08:39 marcin
+drwxr-xr-x  7 root   root    4096 gru 15  2013 Mathematica
+drwxr-xr-x  2 root   root    4096 gru  3  2013 moje
+drwxr-xr-x  3 root   root    4096 lis  4 17:36 opt
+drwxr-xr-x  4 root   root    4096 paź 26 20:08 python
+8:40:/bin/ls -l /home:2 STDERR: 
